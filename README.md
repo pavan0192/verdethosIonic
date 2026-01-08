@@ -1,0 +1,2 @@
+# verdethosIonic
+Ionic Application
