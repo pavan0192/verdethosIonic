@@ -1,0 +1,8 @@
+{
+  "name": "verdethosIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
+
